@@ -13,3 +13,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input {
+  border: 1px solid green;
+  margin-right: 20px;
+  padding: 5px;
+}
+
+input:focus,
+input:hover {
+  background-color: green;
+  border: 1px solid black;
+  color: white;
+}
+
+button {
+  background-color: greenyellow;
+  border-radius: 20px;
+  margin-left: 10px;
+}
