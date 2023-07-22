@@ -28,6 +28,7 @@ export class App extends Component {
     }
   };
 
+  
 
 
   onAddContact = newContact =>
